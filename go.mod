@@ -1,4 +1,4 @@
-module github.com/kkereziev/ardanlabs-service
+module github.com/kkereziev/ardanlabs-service/v2
 
 go 1.19
 
