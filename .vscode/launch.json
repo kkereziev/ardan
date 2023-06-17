@@ -11,6 +11,14 @@
       "mode": "auto",
       "cwd": "${workspaceFolder}",
       "program": "${workspaceFolder}/app/tooling/admin/main.go"
+    },
+      {
+      "name": "Launch program",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/app/services/sales-api/main.go"
     }
   ]
 }
